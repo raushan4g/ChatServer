@@ -1,3 +1,3 @@
-# ChatServer
+# ChatServer 💬
 Let's Chat
 
